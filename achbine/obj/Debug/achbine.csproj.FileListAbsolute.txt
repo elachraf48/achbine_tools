@@ -1,0 +1,10 @@
+C:\Users\achra\source\repos\achbine\bin\Debug\achbine.exe.config
+C:\Users\achra\source\repos\achbine\bin\Debug\achbine.exe
+C:\Users\achra\source\repos\achbine\bin\Debug\achbine.pdb
+C:\Users\achra\source\repos\achbine\obj\Debug\achbine.csproj.AssemblyReference.cache
+C:\Users\achra\source\repos\achbine\obj\Debug\achbine.Form1.resources
+C:\Users\achra\source\repos\achbine\obj\Debug\achbine.Properties.Resources.resources
+C:\Users\achra\source\repos\achbine\obj\Debug\achbine.csproj.GenerateResource.cache
+C:\Users\achra\source\repos\achbine\obj\Debug\achbine.csproj.CoreCompileInputs.cache
+C:\Users\achra\source\repos\achbine\obj\Debug\achbine.exe
+C:\Users\achra\source\repos\achbine\obj\Debug\achbine.pdb
