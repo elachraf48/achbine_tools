@@ -1,0 +1,8 @@
+{
+  "exclude": [
+    "Gmail",
+    "Yahoo",
+    "Outlook",
+    "AOL"
+  ]
+}
